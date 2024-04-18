@@ -9,9 +9,9 @@
 The code expects your dataset folder to have the following structure:
 
 	dataset/
-		    */
-                *.jpg
-                *.jpg
+		*/
+            *.jpg
+            *.jpg
 
 ## Usage
 ```
